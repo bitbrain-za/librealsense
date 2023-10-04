@@ -27,7 +27,7 @@
     "bindings": "^1.5.0",
     "fs-compare": "0.0.4",
     "jsonfile": "^3.0.1",
-    "nan": "^2.8.0",
+    "nan": "^2.18.0",
     "pngjs": "^3.4.0"
   },
   "devDependencies": {
